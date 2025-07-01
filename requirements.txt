@@ -3,5 +3,5 @@ yfinance
 pandas
 numpy
 matplotlib
-statsmodels
 scipy==1.12.0
+statsmodels==0.13.5
